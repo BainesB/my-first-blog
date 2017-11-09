@@ -25,7 +25,7 @@ SECRET_KEY = '@=wo3)snyq066kt0npd98m+kq48@1))k6cw8%y(kq$a99nir=h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<AlexBB>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'alexbb.pythonanywhere.com']
 
 
 
